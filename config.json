@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenppdate",
+        "uuid": 4329932,
+        "checksum": "o6pi8s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
